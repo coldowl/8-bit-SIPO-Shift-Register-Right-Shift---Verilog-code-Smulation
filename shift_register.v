@@ -1,6 +1,6 @@
 module shift_register (DS, SHCP, MR_bar, STCP, OE_bar, out);
-	input DS, SHCP, STCP, MR_bar, OE_bar;
-	output [7:0] out;
+	input DS, SHCP, STCP, MR_bar, OE_bar; //MR_bar and OE_bar is active low.
+	output [7:0] out;		      //These are the final ouputs.
 	
 	wire [7:0] u_out;
 	wire [7:0] latch_out;
