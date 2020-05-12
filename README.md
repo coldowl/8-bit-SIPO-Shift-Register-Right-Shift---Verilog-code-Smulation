@@ -10,4 +10,4 @@ Q (7 to 0) - Outputs
 
 The design is simulated using iverilog and plotted using Gtkwave.'a' is the simulated output. 'shift_register_test.vcd' is the variable change dumpfile.  
 Following are the simulation results. Take a look.
-![](https://github.com/souvicksaha95/8-bit-SIPO-Shift-Register-Right-Shift---Verilog-code-Smulation/blob/master/Simulation.JPG)
+![](https://github.com/souvicksaha95/8-bit-SIPO-Shift-Register-Right-Shift---Verilog-code-Smulation/blob/master/Sim_result_dumpfile.JPG)
