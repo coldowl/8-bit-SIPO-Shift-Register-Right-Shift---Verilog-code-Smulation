@@ -1,2 +1,2 @@
 # 8-bit-SIPO-Shift-Register-Right-Shift---Verilog-code-Smulation
-Under development.
+This project uses verilog to model and deisgn 
