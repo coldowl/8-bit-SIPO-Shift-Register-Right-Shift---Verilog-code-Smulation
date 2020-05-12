@@ -7,3 +7,5 @@ STCP - Clock for latches
 OE_bar - Enable outputs (active low)  
 MR_bar - Reset Flipflops (active low)  
 Q (7 to 0) - Outputs  
+
+The design is simulated using iverilog and plotted using Gtkwave.'a' is the simulated output. 'shift_register_test.vcd' is the variable change dumpfile.
